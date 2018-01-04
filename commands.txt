@@ -1,0 +1,35 @@
+npm install -g typescript
+
+npm install -g @angular/cli@1.0.0-rc.4  
+
+ng new --ng4 angular-hello-world
+
+ng generate component hello-world
+
+ng serve
+
+Notas dia #1
+
+Preprocesadores
+  lass
+  a
+
+Smart component
+  Como traerse los datos y como modificarlos
+
+
+Workshop ES6
+
+
+Códigos libro
+https://github.com/codeyu/ng-book-code
+
+
+Preguntas día 2, 
+
+1- la carpeta vendor se crea de alguna forma?
+2- title: HTMLInputElement, esta bien pasarlo de esta manera como parametro??
+
+
+
+
