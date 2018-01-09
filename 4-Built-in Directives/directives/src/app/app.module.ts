@@ -70,7 +70,8 @@ const routes: Routes = [
     NgForExampleComponent,
     NgNonBindableExampleComponent,
     NgStyleExampleComponent,
-    NgSwitchExampleComponent
+    NgSwitchExampleComponent,
+    AsdComponent
   ],
   imports: [
     BrowserModule,
