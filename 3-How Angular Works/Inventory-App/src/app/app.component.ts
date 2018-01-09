@@ -30,7 +30,18 @@ export class AppComponent {
         29.99)
       ];
   }
+  
   productWasSelected(product: Product): void {
     console.log('Clicked: ' + product);
   }
+  /*
+  
+  app component
+    product list
+      product row
+        product image
+        product department 
+        price display
+ */
+
 }
